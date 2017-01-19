@@ -1,7 +1,7 @@
 {
    "abstract" : "It's new $module",
    "author" : [
-      "com>"
+      "mccheung <mc.cheung@aol.com<gt>"
    ],
    "dynamic_config" : 0,
    "generated_by" : "Minilla/v3.0.9, CPAN::Meta::Converter version 2.150005",
@@ -52,6 +52,20 @@
       }
    },
    "release_status" : "unstable",
+   "resources" : {
+      "bugtracker" : {
+         "web" : "https://github.com/p9s/p5-Text-Util/issues"
+      },
+      "homepage" : "https://github.com/p9s/p5-Text-Util",
+      "repository" : {
+         "type" : "git",
+         "url" : "git://github.com/p9s/p5-Text-Util.git",
+         "web" : "https://github.com/p9s/p5-Text-Util"
+      }
+   },
    "version" : "0.01",
+   "x_contributors" : [
+      "mccheung <mc_cheung@126.com>"
+   ],
    "x_serialization_backend" : "JSON::PP version 2.27300"
 }

@@ -4,6 +4,7 @@ use strict;
 use warnings;
 
 our $VERSION = "0.01";
+use vars qw/@ISA @EXPORT @EXPORT_OK/;
 
 require Exporter;
 @ISA = qw(Exporter);

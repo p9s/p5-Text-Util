@@ -8,7 +8,7 @@ Text::Util - It's new $module
 
 # DESCRIPTION
 
-Text::Util is ...
+Text::Util is a util for clean text data, forexample merge sapce etc 
 
 # LICENSE
 
@@ -19,4 +19,4 @@ it under the same terms as Perl itself.
 
 # AUTHOR
 
-mccheung &lt;mc\_cheung@126.com>
+mccheung &lt;mc.cheung@aol.com&lt;gt>
