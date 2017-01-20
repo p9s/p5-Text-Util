@@ -1,6 +1,6 @@
 # NAME
 
-Text::Util - It's new $module
+Text::Util - It's new tools for clean text
 
 # SYNOPSIS
 
@@ -9,6 +9,9 @@ Text::Util - It's new $module
 # DESCRIPTION
 
 Text::Util is a util for clean text data, forexample merge sapce etc 
+
+Text::Util::merge\_space merge more space to one
+Text::Util::clean\_text include merge\_space step and remove all start and end space of string  
 
 # LICENSE
 
@@ -19,4 +22,4 @@ it under the same terms as Perl itself.
 
 # AUTHOR
 
-mccheung &lt;mc.cheung@aol.com&lt;gt>
+mccheung &lt;mc dot cheung at aol dot com>

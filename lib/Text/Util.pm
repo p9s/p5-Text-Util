@@ -3,7 +3,7 @@ use 5.008001;
 use strict;
 use warnings;
 
-our $VERSION = "0.02";
+our $VERSION = "0.03";
 use vars qw/@ISA @EXPORT @EXPORT_OK/;
 
 require Exporter;
@@ -42,7 +42,7 @@ __END__
 
 =head1 NAME
 
-Text::Util - It's new $module
+Text::Util - It's new tools for clean text
 
 =head1 SYNOPSIS
 
@@ -51,6 +51,9 @@ Text::Util - It's new $module
 =head1 DESCRIPTION
 
 Text::Util is a util for clean text data, forexample merge sapce etc 
+
+Text::Util::merge_space merge more space to one
+Text::Util::clean_text include merge_space step and remove all start and end space of string  
 
 =head1 LICENSE
 
@@ -61,7 +64,7 @@ it under the same terms as Perl itself.
 
 =head1 AUTHOR
 
-mccheung E<lt>mc.cheung@aol.com<gt>
+mccheung <mc dot cheung at aol dot com>
 
 =cut
 

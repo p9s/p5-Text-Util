@@ -1,7 +1,7 @@
 {
-   "abstract" : "It's new $module",
+   "abstract" : "It's new tools for clean text",
    "author" : [
-      "mccheung <mc.cheung@aol.com<gt>"
+      "mccheung <mc dot cheung at aol dot com>"
    ],
    "dynamic_config" : 0,
    "generated_by" : "Minilla/v3.0.9, CPAN::Meta::Converter version 2.150005",
@@ -63,7 +63,7 @@
          "web" : "https://github.com/p9s/p5-Text-Util"
       }
    },
-   "version" : "0.02",
+   "version" : "0.03",
    "x_contributors" : [
       "mccheung <mc_cheung@126.com>"
    ],
