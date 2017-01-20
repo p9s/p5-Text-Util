@@ -2,6 +2,9 @@ Revision history for Perl extension Text-Util
 
 {{$NEXT}}
 
+0.02 2017-01-20T00:23:53Z
+    - update readme and fix function bug
+
 0.01 2017-01-19T09:48:19Z
 
     - original version

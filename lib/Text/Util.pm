@@ -3,7 +3,7 @@ use 5.008001;
 use strict;
 use warnings;
 
-our $VERSION = "0.01";
+our $VERSION = "0.02";
 use vars qw/@ISA @EXPORT @EXPORT_OK/;
 
 require Exporter;
@@ -13,7 +13,7 @@ require Exporter;
 sub clean_text {
     my $str = shift;
     return unless $str;
-    return merge_space( chompf( $str ) );
+    return chompf( merge_space($str) );
 }
 
 sub merge_space {
